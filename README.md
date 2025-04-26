@@ -81,7 +81,7 @@
      </small>
   </p>
   <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCs at 
-    <a href="https://paruluniversity.ac.in/">Jaikranti College</a> during academic year 2024-25
+    <a href="[https://paruluniversity.ac.in](https://www.jaikranticollege.com/Pune/SubMenu_Page_View?Menu_ID=2)/">Jaikranti College</a> during academic year 2024-25
   </small>
 </div><br/><br/>
 </div>  
@@ -240,7 +240,7 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
+   git clone https://github.com/VaibhavShinde44/resume-analyzer-ai.git
    cd Smart-AI-Resume-Analyzer
    ```
 
